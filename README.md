@@ -10,10 +10,10 @@
 }
 
 #inputtext {
-    width: 50%;
+    width: 70%;
     height: 12rem;
     position: relative;
-    left: 26rem;
+    left: 20rem;
     top: 5rem;
     justify-content: center;
     font-size: 65px;
@@ -23,7 +23,7 @@
 
 button {
     width: 20%;
-    height: 2rem;
+    height: 5rem;
     position: relative;
     top: 12rem;
     left: -4rem;
@@ -32,7 +32,7 @@ button {
 #result {
     position: absolute;
     left: 35rem;
-    top: 40rem;
+    top: 30rem;
     font-size: 30px;
 }
 
