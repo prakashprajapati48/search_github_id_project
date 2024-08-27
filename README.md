@@ -26,7 +26,7 @@ button {
     height: 5rem;
     position: relative;
     top: 12rem;
-    left: 4rem;
+    left: 1rem;
 }
 
 #result {
