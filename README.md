@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -11,7 +10,7 @@
 }
 
 #inputtext {
-    width: 42%;
+    width: 50%;
     height: 12rem;
     position: relative;
     left: 26rem;
@@ -33,7 +32,7 @@ button {
 #result {
     position: absolute;
     left: 35rem;
-    top: 22rem;
+    top: 40rem;
     font-size: 30px;
 }
 
