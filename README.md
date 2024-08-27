@@ -13,7 +13,7 @@
     width: 70%;
     height: 12rem;
     position: relative;
-    left: 20rem;
+    left: 15rem;
     top: 5rem;
     justify-content: center;
     font-size: 65px;
@@ -26,7 +26,7 @@ button {
     height: 5rem;
     position: relative;
     top: 12rem;
-    left: -4rem;
+    left: 4rem;
 }
 
 #result {
